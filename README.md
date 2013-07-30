@@ -1,4 +1,4 @@
 sib_frontend
 ============
 
-Sprints from SI Boston Spring '13
+Sprints from Startup Institute Boston's spring '13 RampUp
